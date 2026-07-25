@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/29felix-au/go-hello-server.git
 ```
+
+*Initialized by fullstack-builder-51 workspace automation.*
